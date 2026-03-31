@@ -2,7 +2,8 @@
 
 ## 🔭 I’m currently working on ...
 - Analyzing my Fitbit data from when I was training to run a marathon
-- A couple of blog posts on data scraping weather data in Japan using Jupyter notebook
+- DataDrivenMai_Blogs repository
+  - A couple of blog posts on data scraping weather data in Japan using Jupyter notebook
 
 ## 🌱 I’m currently learning ...
 - Wordpress to design my website! Steep learning curve but it let's me be creative
